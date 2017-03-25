@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CCActionMoveBoat.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ISceneController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\IUserAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SSDirector.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UserGUI.cs" Line="16" Column="33" />
+      <File FileName="Assets\Scripts\FirstSceneController.cs" Line="243" Column="46" />
+      <File FileName="Assets\Scripts\ISSActionCallBack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SSAction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SSActionManager.cs" Line="36" Column="67" />
+      <File FileName="Assets\Scripts\CCActionOnBoard.cs" Line="10" Column="27" />
+      <File FileName="Assets\Scripts\CCActionOffBoard.cs" Line="8" Column="60" />
+      <File FileName="Assets\Scripts\CCActionMoveBoat.cs" Line="21" Column="31" />
+      <File FileName="Assets\Scripts\CCActionManager.cs" Line="21" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
